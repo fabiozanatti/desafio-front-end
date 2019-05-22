@@ -18,20 +18,20 @@ Com esta API([pokeapi v2](https://pokeapi.co/docsv2/#)) em mãos, precisamos que
 
 **Sua aplicação DEVE:**
 
-1. Ter um filtro para buscar os pokémons por nome ou número
+1. Ter um filtro para buscar os pokémons por nome ou número --
 2. Adicionar ou capturar, como preferir, novos pokémons a Pokédex que a principio estará vazia
 3. Listar os pokémons que foram adicionados a Pokédex
 4. Mostrar detalhes do personagem adicionados a Pokédex como: 
-    - Nome
+    - Nome --
     - Imagem dando a opção do usuário fazer upload de sua própria imagem, substituindo a que é entregue via API
-    - Peso
-    - Tamanho
-    - Lista de tipos
-    - Lista de habilidades
-    - Estatísticas de velocidade
-    - Defesa
-    - Ataque
-    - Hp
+    - Peso --
+    - Tamanho -- 
+    - Lista de tipos --
+    - Lista de habilidades --
+    - Estatísticas de velocidade --
+    - Defesa --
+    - Ataque --
+    - Hp --
     - Cada passo de sua evolução
     - Ao clicar em um item da lista de tipos, mostrar todos os pokémons daquele mesmo tipo, inclusive os que ainda não estão adicionados a Pokédex
     - Ao clicar em um item da lista de habilidades mostrar o `short_effect` da mesma
